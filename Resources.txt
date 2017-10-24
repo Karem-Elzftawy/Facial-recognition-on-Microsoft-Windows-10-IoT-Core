@@ -1,0 +1,17 @@
+Set up Visual Studio: https://developer.microsoft.com/en-us/windows/iot/Docs/GetStarted/rpi3/sdcard/stable/getstartedstep3
+
+Windows IoT: Facial Recognition Door: https://microsoft.hackster.io/en-US/windows-iot/windows-iot-facial-recognition-door-e087ce
+
+Facial Recognition Security System: https://microsoft.hackster.io/en-US/peejster/facial-recognition-security-system-c6ca6c
+
+Face API: https://docs.microsoft.com/en-us/azure/cognitive-services/face/overview
+
+Achindra Bhatnagar:
+Capturing and Uploading Images to Azure Blob Storage from Universal Windows Apps:
+https://achindrabhatnagar.wordpress.com/2016/09/27/capturing-and-uploading-images-to-azure-blob-storage-from-universal-windows-apps/
+
+Microsoft Azure Machine Learning and Face Detection in IoT:
+https://www.hackster.io/achindra/microsoft-azure-machine-learning-and-face-detection-in-iot-2de40a
+
+Facial Recognition Security System:
+https://microsoft.hackster.io/en-US/peejster/facial-recognition-security-system-c6ca6c
